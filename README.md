@@ -6,3 +6,5 @@ This is a repository for all code for the course Project of Semester-8 of group 
 
 This project aims to make a viable AI-generated image detection model using pre-trained CNNs and feature selection via metaheuristic algorithms.
 Images of each of the models mentioned in the report can be found in this drive: [drive link](https://drive.google.com/drive/folders/15lqHhL4YbiWINfZM3rOD8BLtQmXvcwmV?usp=sharing).
+
+The report (as a online viewable LaTeX file) can be found at: [overleaf link](https://www.overleaf.com/read/tbfyxbzydrwh#25913f).
